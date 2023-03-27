@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\045. veletlen132148csakparos\045. veletlen132148csakparos\bin\Debug\_045.veletlen132148csakparos.exe.config
+C:\Users\gratt\source\repos\045. veletlen132148csakparos\045. veletlen132148csakparos\bin\Debug\_045.veletlen132148csakparos.exe
+C:\Users\gratt\source\repos\045. veletlen132148csakparos\045. veletlen132148csakparos\bin\Debug\_045.veletlen132148csakparos.pdb
+C:\Users\gratt\source\repos\045. veletlen132148csakparos\045. veletlen132148csakparos\obj\Debug\045. veletlen132148csakparos.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\045. veletlen132148csakparos\045. veletlen132148csakparos\obj\Debug\_045.veletlen132148csakparos.exe
+C:\Users\gratt\source\repos\045. veletlen132148csakparos\045. veletlen132148csakparos\obj\Debug\_045.veletlen132148csakparos.pdb
